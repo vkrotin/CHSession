@@ -1,5 +1,5 @@
 //
-//  CHAppDelegate.h
+//  CHTableViewController.h
 //  CHSessionSample
 //
 //  Created by Aleksey Anisimov on 21.02.17.
@@ -7,11 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "CHTableViewCell.h"
 
-@interface CHAppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface CHTableViewController : UITableViewController
 
 @end
-

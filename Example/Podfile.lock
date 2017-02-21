@@ -1,0 +1,16 @@
+PODS:
+  - CHSession (1.0.0)
+
+DEPENDENCIES:
+  - CHSession (from `../`)
+
+EXTERNAL SOURCES:
+  CHSession:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CHSession: 42e65bb788f1d220939e871b01c87c6260d6eb90
+
+PODFILE CHECKSUM: 793464c6cba49f87a291c6578803fa35854b8749
+
+COCOAPODS: 1.1.1
