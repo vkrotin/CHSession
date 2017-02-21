@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/CHSession.svg?style=flat)](http://cocoapods.org/pods/CHSession)
 [![License](https://img.shields.io/cocoapods/l/CHSession.svg?style=flat)](http://cocoapods.org/pods/CHSession)
 [![Platform](https://img.shields.io/cocoapods/p/CHSession.svg?style=flat)](http://cocoapods.org/pods/CHSession)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/vkrotin/CHSession)
+[![Reference Status](https://www.versioneye.com/objective-c/chsession/reference_badge.svg?style=flat)](https://www.versioneye.com/objective-c/chsession/references)
 
 This Manager is designed for ease of cache management requests NSURLSession.
 Valid GET, POST, HEAD requests.
