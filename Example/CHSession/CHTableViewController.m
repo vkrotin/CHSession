@@ -75,6 +75,8 @@ static NSString *reuseIndex = @"imageCell";
                 loadCell.sizeLabel.text= [NSString stringWithFormat:@"File size is : %.3f MB",fSize/1024.0f/1024.0f];
             }errorHandler:nil];
     
+
+    
    
 
     

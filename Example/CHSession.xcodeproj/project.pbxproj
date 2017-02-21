@@ -37,7 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3E9DC5998F21C14CB96DD5CA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		5851833CE9E9428ED26FF4DC /* Pods-CHSession_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHSession_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CHSession_Tests/Pods-CHSession_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* CHSession_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CHSession_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -55,7 +54,6 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		65FA7868E32A51ADBDC8CC28 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		82E976101E5C4FF000959F8E /* CHTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHTableViewCell.h; sourceTree = "<group>"; };
 		82E976111E5C4FF000959F8E /* CHTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHTableViewCell.m; sourceTree = "<group>"; };
@@ -66,7 +64,6 @@
 		8E55A6AA3B18CF936D82431D /* Pods-CHSession_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHSession_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CHSession_Example/Pods-CHSession_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B5C51839F1E6915C552CFF65 /* Pods-CHSession_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CHSession_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-CHSession_Example/Pods-CHSession_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BFCB0A0D8CF22530A1C6ACF8 /* Pods_CHSession_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CHSession_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4C96E8B9D9722D4D636CA1C /* CHSession.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CHSession.podspec; path = ../CHSession.podspec; sourceTree = "<group>"; };
 		FF4BF46FBC0A10C0D452B6DA /* Pods_CHSession_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CHSession_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -98,7 +95,6 @@
 		6003F581195388D10070C39A = {
 			isa = PBXGroup;
 			children = (
-				60FF7A9C1954A5C5007DD14C /* Podspec Metadata */,
 				6003F593195388D20070C39A /* Example for CHSession */,
 				6003F5B5195388D20070C39A /* Tests */,
 				6003F58C195388D20070C39A /* Frameworks */,
@@ -174,16 +170,6 @@
 				606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
-			isa = PBXGroup;
-			children = (
-				D4C96E8B9D9722D4D636CA1C /* CHSession.podspec */,
-				65FA7868E32A51ADBDC8CC28 /* README.md */,
-				3E9DC5998F21C14CB96DD5CA /* LICENSE */,
-			);
-			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
 		82E4350AEB653D99207AE24B /* Pods */ = {
