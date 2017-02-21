@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CHSession_Example' do
+  pod 'CHSession', :path => '../'
+
+  target 'CHSession_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
