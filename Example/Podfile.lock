@@ -1,5 +1,5 @@
 PODS:
-  - CHSession (1.0.0)
+  - CHSession (0.1.0)
 
 DEPENDENCIES:
   - CHSession (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CHSession: 42e65bb788f1d220939e871b01c87c6260d6eb90
+  CHSession: 204dae39485fbeb8b26d79e10d58e6cdd3a950e8
 
 PODFILE CHECKSUM: 793464c6cba49f87a291c6578803fa35854b8749
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.2.0
